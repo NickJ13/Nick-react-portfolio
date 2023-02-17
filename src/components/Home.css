@@ -1,0 +1,28 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    /* max-width: 75%; */
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+    border: 1px solid black;
+}
+.about-me {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+    border: 1px solid black;
+}
+.experience {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+    border: 1px solid black;
+}
